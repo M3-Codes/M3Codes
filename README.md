@@ -26,7 +26,7 @@ M3 Codes was founded by:
 
 ### Unutma Dostu Mobile App
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/udlogo.png" alt="Unutma Dostu Logo" width="100">
   <h3>Unutma Dostu Mobile App</h3>
 </div>
