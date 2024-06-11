@@ -41,14 +41,15 @@ We are excited to announce that we have several exciting projects in the pipelin
 
 At M3 Codes, we utilize a range of technologies to streamline our development process and deliver robust solutions. Some of the key technologies we use include:
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Gitt.png" alt="Git Logo" width="30">  
   <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Jira.png" alt="Jira Logo" width="30">  
 </div>
 
-<div align="center">
+<div align="left">
   <p>Git</p>
   <p>Jira</p>
+</div>
 
 ## Collaboration
 
