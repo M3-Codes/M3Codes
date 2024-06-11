@@ -1,11 +1,10 @@
+# M3 Codes
+
 <div align="center">
-  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Logo.png" alt="Logo"><h3>M3 Code</h3>
+  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Logo.png" alt="M3 Codes Logo" width="300">
 </div>
 
 M3 Codes is a team of three computer engineers dedicated to software development. We are passionate about leveraging cutting-edge technologies to create innovative solutions.
-<p align="center">
-  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/M3CodeLogo.png" alt="M3 Codes Logo">
-</p>
 
 ## About Us
 
@@ -25,11 +24,11 @@ M3 Codes was founded by:
 
 ## Projects
 
-<div align="center">
-  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/udlogo.png" alt="Unutma Dostu Logo"><h3>Unutma Dostu Mobile App</h3>
-</div>
+### Unutma Dostu Mobile App
 
-![Unutma Dostu Logo](https://github.com/M3-Codes/M3Codes/blob/main/Logos/udlogo2.png)
+<div align="center">
+  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/udlogo.png" alt="Unutma Dostu Logo" width="300">
+</div>
 
 Unutma Dostu is a mobile application designed to assist Alzheimer's patients and individuals with concentration and memory issues. The app utilizes advanced technologies to help users remember important tasks, appointments, and information. Our team successfully completed the development of Unutma Dostu, and we are currently working on enhancing its features.
 
@@ -50,8 +49,7 @@ We believe in the power of collaboration and are open to partnering with other i
 
 ## Contact
 
-Feel free to contact us via email at [email@example.com](mailto:m3-codes@hotmail.com) for any inquiries or collaboration opportunities.
-
-
+Feel free to contact us via email at [m3-codes@hotmail.com](mailto:m3-codes@hotmail.com) for any inquiries or collaboration opportunities.
 
 ---
+
