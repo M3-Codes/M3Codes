@@ -47,8 +47,7 @@ At M3 Codes, we utilize a range of technologies to streamline our development pr
 </div>
 
 <div align="left">
-  <p>Git</p>
-  <p>Jira</p>
+  <p>Git Jira</p>
 </div>
 
 ## Collaboration
