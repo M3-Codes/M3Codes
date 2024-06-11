@@ -28,7 +28,7 @@ M3 Codes was founded by:
 
 <div align="left">
   <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/udlogo.png" alt="Unutma Dostu Logo" width="100">
-  <h3>Unutma Dostu Mobile App</h3>
+  <h3 style="display:inline; margin-left:10px;">Unutma Dostu Mobile App</h3>
 </div>
 
 Unutma Dostu is a mobile application designed to assist Alzheimer's patients and individuals with concentration and memory issues. The app utilizes advanced technologies to help users remember important tasks, appointments, and information. Our team successfully completed the development of Unutma Dostu, and we are currently working on enhancing its features.
