@@ -1,6 +1,6 @@
 # M3 Codes
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Logo.png" alt="M3 Codes Logo" width="100">
 </div>
 
