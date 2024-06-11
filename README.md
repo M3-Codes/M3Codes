@@ -1,7 +1,7 @@
 # M3 Codes
 
 <div align="center">
-  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Logo.png" alt="M3 Codes Logo" width="300">
+  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Logo.png" alt="M3 Codes Logo" width="100">
 </div>
 
 M3 Codes is a team of three computer engineers dedicated to software development. We are passionate about leveraging cutting-edge technologies to create innovative solutions.
@@ -27,7 +27,8 @@ M3 Codes was founded by:
 ### Unutma Dostu Mobile App
 
 <div align="center">
-  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/udlogo.png" alt="Unutma Dostu Logo" width="300">
+  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/udlogo.png" alt="Unutma Dostu Logo" width="100">
+  <h3>Unutma Dostu Mobile App</h3>
 </div>
 
 Unutma Dostu is a mobile application designed to assist Alzheimer's patients and individuals with concentration and memory issues. The app utilizes advanced technologies to help users remember important tasks, appointments, and information. Our team successfully completed the development of Unutma Dostu, and we are currently working on enhancing its features.
@@ -40,8 +41,8 @@ We are excited to announce that we have several exciting projects in the pipelin
 
 At M3 Codes, we utilize a range of technologies to streamline our development process and deliver robust solutions. Some of the key technologies we use include:
 
-- ![Git Logo](https://images.app.goo.gl/8zrDAu4ATW8bGgvD7) Git
-- ![Jira Logo](https://images.app.goo.gl/uR8nP58tksv84aY59) Jira  
+- <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Git.png" alt="Git Logo" width="100"> Git
+- <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Jira.png" alt="Jira Logo" width="100"> Jira  
 
 ## Collaboration
 
