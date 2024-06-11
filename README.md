@@ -43,11 +43,11 @@ At M3 Codes, we utilize a range of technologies to streamline our development pr
 
 <div align="left">
   <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Gitt.png" alt="Git Logo" width="30">  
-  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Jira.png" alt="Jira Logo" width="32">  
+  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Jira.png" alt="Jira Logo" width="31">  
 </div>
 
 <div align="left">
-  <p>Git &nbsp; Jira</p>
+  <p>Git &nbsp;&nbsp; Jira</p>
 </div>
 
 ## Collaboration
